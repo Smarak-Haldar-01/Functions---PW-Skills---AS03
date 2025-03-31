@@ -1,0 +1,11 @@
+Hi!
+
+I am Smarak. 
+
+I am a Student at Future Institute of Engineering and Management (294) under BCA batch 2022-25.
+
+I have worked at OS4Ed. India Pvt. Ltd. for 9/mo as Jr. Software Engineer with the teach stack of PHP and MySQL.
+
+I have also worked at Bluevector AI LLP for 1/mo as Associate Cloud Developer Intern with the tech stack of Python3 and MySQL.
+
+Thank You!
